@@ -1,0 +1,24 @@
+{
+  "name": "api-chatgarage-test",
+  "version": "1.0.0",
+  "description": "Chatbot para responder perguntas referentes á Garagem!",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "watson conversation node js expressjs"
+  },
+  "author": "Fernanda Nunes",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "chai": "^4.2.0",
+    "express": "^4.16.4",
+    "expressjs": "^1.0.1",
+    "mocha": "^6.1.4",
+    "sinon": "^7.3.2",
+    "watson-developer-cloud": "^3.18.1"
+  }
+}
